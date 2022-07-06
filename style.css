@@ -4,9 +4,13 @@
     padding:0px;
     margin:0px;
     font-family: 'Karla', sans-serif;}
+
     html{
         scroll-behavior: smooth;
     }
+body{
+    text-align:center;}
+
 #home{
     background:linear-gradient(110deg,rgb(94, 13, 93) 0, rgba(173, 3, 185, 0.775)  100%);
 
